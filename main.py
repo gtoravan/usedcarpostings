@@ -7,6 +7,7 @@ import csv
 
 import json
 
+#removed geocoder files
 
 default_limit = 20
 
